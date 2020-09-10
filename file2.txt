@@ -1,1 +1,2 @@
 First line of file2
+Change in file2
